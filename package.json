@@ -1,0 +1,20 @@
+{
+  "name": "testdte",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "fs-extra": "^11.2.0",
+    "js-x509-utils": "^1.0.7",
+    "nodejs-base64": "^2.0.0",
+    "xml-crypto": "^6.0.0",
+    "xpath": "^0.0.34"
+  }
+}
